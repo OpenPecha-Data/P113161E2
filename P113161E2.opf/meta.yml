@@ -1,0 +1,47 @@
+id: P113161E2
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA2DB16428
+  instance_id: http://purl.bdrc.io/resource/IE2DB16428
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། གུང་རུ་རྒྱལ་མཚན་བཟང་པོ།
+  alt_title:
+    zh-hans:
+    - 贡如 坚赞桑部全集
+    sa-x-ndia:
+    - gung ru rgyal mtshan bzang po'i gsung 'bum
+  author: http://purl.bdrc.io/resource/P4340
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    f5aa4c32698f48729b45337336203606:
+      title: པོད ༣་གསུང་འབུམ། གུང་རུ་རྒྱལ་མཚན་བཟང་པོ
+      volume_number: 3
+      base_file: UT2DB16428_I1PD34082_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6C3B99F8E9A33823
+      image_group: I1PD34082
+      quality: Low
+    8cdc92d397c8407dbe1a4affcc1d1065:
+      title: པོད ༡་གསུང་འབུམ། གུང་རུ་རྒྱལ་མཚན་བཟང་པོ
+      volume_number: 1
+      base_file: UT2DB16428_I1PD34080_0000.txt
+      reference: http://purl.bdrc.io/resource/VL4FCB80E4DCEB3B85
+      image_group: I1PD34080
+      quality: Low
+    7d0e5dcd70284728aaa86f46f7003965:
+      title: པོད ༢་གསུང་འབུམ། གུང་རུ་རྒྱལ་མཚན་བཟང་པོ
+      volume_number: 2
+      base_file: UT2DB16428_I1PD34081_0000.txt
+      reference: http://purl.bdrc.io/resource/VLB8BB1F013595F6CB
+      image_group: I1PD34081
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW2DB16428
+  - http://purl.bdrc.io/resource/W2DB16428
+  ocr_software: Namsel
+created_at: '2021-12-29T12:24:42.583037'
+last_modified_at: '2021-12-29T12:24:42.583046'
